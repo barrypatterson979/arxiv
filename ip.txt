@@ -1,1 +1,1 @@
-<ip_scrapper>104.236.223.63</ip_scrapper>
+<ip_scrapper>159.65.245.225</ip_scrapper>
